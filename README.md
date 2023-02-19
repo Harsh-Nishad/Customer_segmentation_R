@@ -2,6 +2,9 @@
 Performed analysis on the Mall _dataset used K means clustering algorithm to develop relationship between columns and visualized the final results.
 This project aims to segment customers based on their purchasing behavior using the RFM model (Recency, Frequency, Monetary Value) and K-means clustering in R. The dataset used for this analysis is the Online Retail Dataset from the UCI Machine Learning Repository.
 
+# Results
+[https://customer-segmentation-429ce.web.app]
+
 # The project is implemented in R and uses the following libraries:
 ```
 dplyr
